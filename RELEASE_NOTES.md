@@ -1,9 +1,11 @@
-# Cobertura da pesquisa 0.1.0
+# Cobertura da Pesquisa 0.1.1
 
 Pré-lançamento para Zotero 10.0.x.
 
-Agrupa referências por etiquetas País: e Categoria: e compara com pares esperados definidos por você.
+- Nome da extensão, repositório e instalador padronizados em português.
+- Documentação e endereços de atualização revisados.
+- Funções da versão anterior preservadas, incluindo os identificadores de instalação e o histórico local de correções, quando aplicável.
 
-Somente leitura dos itens. Arquivo associado não significa texto integral verificado nem disponibilidade local. Sem registro no conjunto analisado não significa inexistência de legislação. A lista esperada é salva apenas neste computador.
+Baixe `zotero-cobertura-da-pesquisa-0.1.1.xpi` e instale em Ferramentas > Extensões > Instalar extensão de arquivo.
 
-Baixe o arquivo `.xpi`, não o código-fonte compactado. Instale em Ferramentas > Extensões > Instalar extensão de arquivo. Consulte o README para uso, privacidade e desinstalação. Esta versão ainda requer validação de uso cotidiano; testes automatizados não representam revisão de uma biblioteca real inteira.
+Esta atualização muda a apresentação e os links. A validação funcional de base está documentada em docs/VALIDATION.md; os testes automatizados são executados novamente para esta versão.

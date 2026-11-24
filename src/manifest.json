@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "Cobertura da pesquisa",
-  "version": "0.1.0",
+  "name": "Cobertura da Pesquisa",
+  "version": "0.1.1",
   "description": "Agrupa referências por etiquetas País: e Categoria: e compara com pares esperados definidos por você.",
   "author": "Alyce Suza",
-  "homepage_url": "https://github.com/alycesuza/zotero-research-coverage",
+  "homepage_url": "https://github.com/alycesuza/zotero-cobertura-da-pesquisa",
   "applications": {
     "zotero": {
       "id": "zotero-research-coverage@alycesuza.github.io",
-      "update_url": "https://github.com/alycesuza/zotero-research-coverage/releases/latest/download/updates.json",
+      "update_url": "https://github.com/alycesuza/zotero-cobertura-da-pesquisa/releases/latest/download/updates.json",
       "strict_min_version": "10.0",
       "strict_max_version": "10.0.*"
     }

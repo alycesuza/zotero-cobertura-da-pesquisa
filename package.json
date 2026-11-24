@@ -1,6 +1,6 @@
 {
-  "name": "zotero-research-coverage",
-  "version": "0.1.0",
+  "name": "zotero-cobertura-da-pesquisa",
+  "version": "0.1.1",
   "private": true,
   "description": "Agrupa referências por etiquetas País: e Categoria: e compara com pares esperados definidos por você.",
   "license": "AGPL-3.0-only",
